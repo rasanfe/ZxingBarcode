@@ -17,6 +17,7 @@
 using System;
 using System.Drawing;
 
+
 namespace ZXing.Windows.Compatibility
 {
     /// <summary>
