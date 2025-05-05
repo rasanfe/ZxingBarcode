@@ -9,7 +9,7 @@ using ZXing.Common;
 
 namespace ZxingBarcode
 {
-    public class ZxingNet6
+    public class ZxingNet8
     {
         public string ReadBarcode(string imageName)
         {

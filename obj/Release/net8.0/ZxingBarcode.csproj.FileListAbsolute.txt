@@ -1,0 +1,12 @@
+C:\proyecto pw2022\Blog\Net8\ZxingBarcode\bin\Release\net8.0\ZxingBarcode.deps.json
+C:\proyecto pw2022\Blog\Net8\ZxingBarcode\bin\Release\net8.0\ZxingBarcode.dll
+C:\proyecto pw2022\Blog\Net8\ZxingBarcode\bin\Release\net8.0\ZxingBarcode.pdb
+C:\proyecto pw2022\Blog\Net8\ZxingBarcode\obj\Release\net8.0\ZxingBarcode.csproj.AssemblyReference.cache
+C:\proyecto pw2022\Blog\Net8\ZxingBarcode\obj\Release\net8.0\ZxingBarcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto pw2022\Blog\Net8\ZxingBarcode\obj\Release\net8.0\ZxingBarcode.AssemblyInfoInputs.cache
+C:\proyecto pw2022\Blog\Net8\ZxingBarcode\obj\Release\net8.0\ZxingBarcode.AssemblyInfo.cs
+C:\proyecto pw2022\Blog\Net8\ZxingBarcode\obj\Release\net8.0\ZxingBarcode.csproj.CoreCompileInputs.cache
+C:\proyecto pw2022\Blog\Net8\ZxingBarcode\obj\Release\net8.0\ZxingBarcode.dll
+C:\proyecto pw2022\Blog\Net8\ZxingBarcode\obj\Release\net8.0\refint\ZxingBarcode.dll
+C:\proyecto pw2022\Blog\Net8\ZxingBarcode\obj\Release\net8.0\ZxingBarcode.pdb
+C:\proyecto pw2022\Blog\Net8\ZxingBarcode\obj\Release\net8.0\ref\ZxingBarcode.dll
