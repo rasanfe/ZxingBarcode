@@ -1,6 +1,6 @@
 # ZxingBarcode
 
-.Net6 Class Library ZxingBarcode
+.Net8 Class Library ZxingBarcode
 
 Este el proyecto de Visual Studio 2022 con el que he creado la libreria que uso en el ejemplo de PowerBuilder Qrcode para Crear y Leer códigos Qr.
 
